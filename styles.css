@@ -1,0 +1,35 @@
+body {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #242424;
+  }
+  
+  .output {
+    margin-top: 10px;
+  }
+  
+  .loading {
+    color: #333333;
+    font-weight: bold;
+  }
+  
+  .error {
+    color: #000000;
+    font-weight: bold;
+  }
+  
+  button {
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #333333;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #1a1a1a;
+  }  
